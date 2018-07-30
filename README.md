@@ -1,2 +1,2 @@
 # FAER-ML
-Material for the Python/ML/DL Workshop
+Material for the FAER Workshop on AI & ML.
